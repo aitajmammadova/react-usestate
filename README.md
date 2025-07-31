@@ -19,7 +19,7 @@ A small React project demonstrating the use of React's useState hook with multip
 To run the project locally:
 
 ```bash
-git clone https://github.com/aitajmammadova/use-state-components.git
-cd use-state-components
+git clone https://github.com/aitajmammadova/react-usestate.git
+cd react-usestate
 npm install
 npm start
